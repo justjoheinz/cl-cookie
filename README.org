@@ -1,0 +1,21 @@
+#+title: Readme
+
+# CL-COOKIE
+
+cookiecutter template for common lisp projects
+
+The template creates
+
+ - src directory
+ - t directory
+ - asd file
+ - .gitignore
+
+and executes
+
+ - git init
+ - qlot init
+ - qlot install
+
+
+Invoke with ~cookiecutter cl-cookie~.
