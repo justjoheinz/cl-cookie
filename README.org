@@ -18,4 +18,6 @@ and executes
  - qlot install
 
 
-Invoke with ~cookiecutter cl-cookie~.
+Invoke with ~cookiecutter gh:justjoheinz/cl-cookie~.
+
+Pull Request are very welcome.
