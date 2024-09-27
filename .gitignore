@@ -1,0 +1,6 @@
+qlfile
+qlfile.lock
+.qlot/
+~*
+*.bak
+*.fasl
