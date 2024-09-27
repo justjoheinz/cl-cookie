@@ -1,5 +1,6 @@
 {
     "project_name": "Cookiecutter Common Lisp skeleton",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
-    "author": "Markus Klink"
+    "author": "Markus Klink",
+    "version": "0.1.0"
 }

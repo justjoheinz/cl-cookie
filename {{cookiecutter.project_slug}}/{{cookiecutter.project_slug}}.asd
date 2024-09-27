@@ -1,6 +1,7 @@
 (asdf:defsystem {{cookiecutter.project_slug}}
   :author "{{cookiecutter.author}}"
   :description ""
+  :version ":{{cookiecutter.version}}"
   :depends-on (:log4cl
                :alexandria)
   :serial t
